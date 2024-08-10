@@ -1,0 +1,28 @@
+##this is for example, we are using mostly these type of structure in configuration
+#
+#server:
+#  port:
+#    8082
+#
+#spring:
+#  application:
+#    name: springDataJPA
+#
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    username: springuser
+#    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/db_example
+#    password: password
+#
+##  jpa:
+##    hibernate:
+##      ddl-auto: update
+#
+#  h2:
+#    console:
+#      enabled: 'true'
+#
+#  jpa:
+#    database-platform: org.hibernate.dialect.H2Dialect
+#
+#
